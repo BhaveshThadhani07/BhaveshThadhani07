@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhavesh Thadhani</h1>
-<h3 align="center">An AI enthusiast from India with a passion for building intelligent systems that can learn, adapt, and make a difference.</h3>
+<h3 align="center">An AI enthusiast from India passionate about building intelligent systems that can learn, adapt, and make a difference.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaveshthadhani07&label=Profile%20views&color=0e75b6&style=flat" alt="bhaveshthadhani07" /> </p>
 
@@ -17,12 +17,12 @@
 
 - 📫 How to reach me **themacrobhavesh@gmail.com**
 
-- ⚡ Fun fact **I wrote my first line of code in HTML & C I was 14. Since then, I’ve been hooked!**
+- ⚡ Fun fact **I wrote my first line of code in HTML & C when I was 14. Since then, I’ve been hooked!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bhavesht007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhavesht007" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bhavesh-thadhani-212334324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhavesh-thadhani-212334324" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bhavesh-thadhani-212334324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhavesh-thadhani-212334324" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
